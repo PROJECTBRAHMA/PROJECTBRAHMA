@@ -32,7 +32,7 @@ No tab-switching. No vendor lock-in. No bloated subscriptions. Just pure AI musc
 ---
 
 ## 📦 Live Demo *(Coming Soon)*  
-**→ Add your production link here when live**
+****
 
 ---
 
@@ -40,5 +40,5 @@ No tab-switching. No vendor lock-in. No bloated subscriptions. Just pure AI musc
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/ProjectBrahma.git
+git clone https://github.com/jivi001/ProjectBrahma.git
 cd ProjectBrahma
