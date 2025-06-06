@@ -35,6 +35,7 @@ No tab-switching. No vendor lock-in. No bloated subscriptions. Just pure AI musc
 ****
 
 ---
+Dicord server-https://discord.gg/8zZcyMGs
 
 ## 🛠️ Getting Started
 
